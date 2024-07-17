@@ -1,8 +1,9 @@
 # 2023-Codepath-web-development
 
-# Protect the Whales! 🌊🐋
+# Protect the Whales (Version 2!!)! 🌊🐋
 
-Welcome to the **Protect the Whales** project! This repository contains the HTML, CSS, and JavaScript code I developed as part of the Codepath Web101 course.
+Welcome to the **Protect the Whales** project! This repository contains the HTML, CSS, and JavaScript code I developed as part of the Codepath Web101 course. This project was developed based on my previous GWC project (refer to /2021-Girls-Who-Code-Activism-website
+).
 
 ## About the Project
 
